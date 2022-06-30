@@ -1,0 +1,1136 @@
+fileFormatVersion: 2
+guid: 378a6f86e32b59244b73b2523f26cb48
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2970741832695110317
+    second: ground-atlas_0
+  - first:
+      213: 1758549573040363859
+    second: ground-atlas_1
+  - first:
+      213: 2619795004916062663
+    second: ground-atlas_2
+  - first:
+      213: 8408988563061039582
+    second: ground-atlas_3
+  - first:
+      213: -617613585711371593
+    second: ground-atlas_4
+  - first:
+      213: -4184258615433309573
+    second: ground-atlas_5
+  - first:
+      213: -2959894082153768408
+    second: ground-atlas_6
+  - first:
+      213: -1128201474185132208
+    second: ground-atlas_7
+  - first:
+      213: -7141394312933313460
+    second: ground-atlas_8
+  - first:
+      213: 8758346207289886763
+    second: ground-atlas_9
+  - first:
+      213: -8574397318491465127
+    second: ground-atlas_10
+  - first:
+      213: -26848183496989691
+    second: ground-atlas_11
+  - first:
+      213: -2057832449695253419
+    second: ground-atlas_12
+  - first:
+      213: -162710642601540557
+    second: ground-atlas_13
+  - first:
+      213: -4593167632049189991
+    second: ground-atlas_14
+  - first:
+      213: 517036251474333257
+    second: ground-atlas_15
+  - first:
+      213: -8726596047411083494
+    second: ground-atlas_16
+  - first:
+      213: 6406628948127237343
+    second: ground-atlas_17
+  - first:
+      213: 7969292581596847884
+    second: ground-atlas_18
+  - first:
+      213: -8298742600181311142
+    second: ground-atlas_19
+  - first:
+      213: 6038468079796280134
+    second: ground-atlas_20
+  - first:
+      213: -6215565802085091413
+    second: ground-atlas_21
+  - first:
+      213: -7493456491856965470
+    second: ground-atlas_22
+  - first:
+      213: -3176841622367389882
+    second: ground-atlas_23
+  - first:
+      213: -8086409134400229957
+    second: ground-atlas_24
+  - first:
+      213: 1963761736938465350
+    second: ground-atlas_25
+  - first:
+      213: -1221011112762531747
+    second: ground-atlas_26
+  - first:
+      213: -3030939605758454351
+    second: ground-atlas_27
+  - first:
+      213: -6822943467531293086
+    second: ground-atlas_28
+  - first:
+      213: 2053693341769236567
+    second: ground-atlas_29
+  - first:
+      213: -700114144769530173
+    second: ground-atlas_30
+  - first:
+      213: 1538513129086572461
+    second: ground-atlas_31
+  - first:
+      213: -3419198319034386160
+    second: ground-atlas_32
+  - first:
+      213: -6741236304180861062
+    second: ground-atlas_33
+  - first:
+      213: -4594113738834991489
+    second: ground-atlas_34
+  - first:
+      213: 7524092943362231324
+    second: ground-atlas_35
+  - first:
+      213: 8055922057655404534
+    second: ground-atlas_36
+  - first:
+      213: 6332418288793000241
+    second: ground-atlas_37
+  - first:
+      213: -1217719813519251967
+    second: ground-atlas_38
+  - first:
+      213: 5524071855907370741
+    second: ground-atlas_39
+  - first:
+      213: -7105016872069605559
+    second: ground-atlas_40
+  - first:
+      213: 8444001755704107668
+    second: ground-atlas_41
+  - first:
+      213: -2531380778122258567
+    second: ground-atlas_42
+  - first:
+      213: 5772364963858596910
+    second: ground-atlas_43
+  - first:
+      213: -9187287967695374276
+    second: ground-atlas_44
+  - first:
+      213: -5690740857654020404
+    second: ground-atlas_45
+  - first:
+      213: 8694598204033847476
+    second: ground-atlas_46
+  - first:
+      213: -5093742114716652064
+    second: ground-atlas_47
+  - first:
+      213: -8189293291423422120
+    second: ground-atlas_48
+  - first:
+      213: 8897944847815972239
+    second: ground-atlas_49
+  - first:
+      213: 4669842824552819305
+    second: ground-atlas_50
+  - first:
+      213: 6900761086939581164
+    second: ground-atlas_51
+  - first:
+      213: 8151240775285352676
+    second: ground-atlas_52
+  - first:
+      213: 8008338933127284003
+    second: ground-atlas_53
+  - first:
+      213: 458577076709602498
+    second: ground-atlas_54
+  - first:
+      213: -8235889906815332335
+    second: ground-atlas_55
+  - first:
+      213: -7815283727724306222
+    second: ground-atlas_56
+  - first:
+      213: 6750521437261888993
+    second: ground-atlas_57
+  - first:
+      213: -2348046948056611757
+    second: ground-atlas_58
+  - first:
+      213: -7709749277032818476
+    second: ground-atlas_59
+  - first:
+      213: -4332529510490547151
+    second: ground-atlas_60
+  - first:
+      213: 3843214078348453958
+    second: ground-atlas_61
+  - first:
+      213: -8349971182364156712
+    second: ground-atlas_62
+  - first:
+      213: -5004640933288068352
+    second: ground-atlas_63
+  - first:
+      213: -7945499491104545933
+    second: ground-atlas_64
+  - first:
+      213: 1295415794013609555
+    second: ground-atlas_65
+  - first:
+      213: 5873470812478813923
+    second: ground-atlas_66
+  - first:
+      213: -259505178798404094
+    second: ground-atlas_67
+  - first:
+      213: -1487523578433966064
+    second: ground-atlas_68
+  - first:
+      213: -932770516078570503
+    second: ground-atlas_69
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ground-atlas_2
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 538
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c95d5c3da16b5420800000000000000
+      internalID: 2619795004916062663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-atlas_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 282
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3344f8a588fedbdf0800000000000000
+      internalID: -162710642601540557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-atlas_15
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 283
+        width: 96
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e80293bb1ec2700800000000000000
+      internalID: 517036251474333257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-atlas_18
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 252
+        width: 110
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f5c3d316d989e60800000000000000
+      internalID: 7969292581596847884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-atlas_30
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 86
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c629ca05e1b846f0800000000000000
+      internalID: -700114144769530173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-atlas_31
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 87
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7da7d1a85e95510800000000000000
+      internalID: 1538513129086572461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-atlas_32
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 86
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019b7599e319c80d0800000000000000
+      internalID: -3419198319034386160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-atlas_33
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 62
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7725564c415272a0800000000000000
+      internalID: -6741236304180861062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-atlas_35
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 8
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c012aeaa2fa6860800000000000000
+      internalID: 7524092943362231324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-atlas_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 40
+        width: 14
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7c8c8ed626ccf60800000000000000
+      internalID: 8055922057655404534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-atlas_37
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 40
+        width: 131
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 1, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13991b012e441e750800000000000000
+      internalID: 6332418288793000241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-atlas_38
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 75
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106ea37084ac91fe0800000000000000
+      internalID: -1217719813519251967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-atlas_40
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 71
+        width: 68
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94752218cc8e56d90800000000000000
+      internalID: -7105016872069605559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-atlas_43
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 50
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24c3b0f95f8b1050800000000000000
+      internalID: 5772364963858596910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-atlas_44
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 54
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38fb4c0542308080800000000000000
+      internalID: -9187287967695374276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-atlas_45
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 54
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6fabe375d6601b0800000000000000
+      internalID: -5690740857654020404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-atlas_46
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 54
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0df28200b69a870800000000000000
+      internalID: 8694598204033847476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-atlas_47
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ededd2d8846f49b0800000000000000
+      internalID: -5093742114716652064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-atlas_48
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 49
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859a733e329c95e80800000000000000
+      internalID: -8189293291423422120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-atlas_49
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 49
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85961d12b9db7b70800000000000000
+      internalID: 8897944847815972239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-atlas_50
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 38
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96aa06a9e4d9ec040800000000000000
+      internalID: 4669842824552819305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-atlas_51
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 38
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea4fd295ad64cf50800000000000000
+      internalID: 6900761086939581164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-atlas_52
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 38
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e820994c460f1170800000000000000
+      internalID: 8151240775285352676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-atlas_53
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 38
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3258bf564d5532f60800000000000000
+      internalID: 8008338933127284003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-atlas_54
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 38
+        width: 68
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 1, z: 1, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4b96feb613d5600800000000000000
+      internalID: 458577076709602498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-atlas_55
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 38
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1101c0fe3cd34bd80800000000000000
+      internalID: -8235889906815332335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-atlas_57
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed77ac3b7baead50800000000000000
+      internalID: 6750521437261888993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-atlas_58
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 27
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3544521cdbf0a6fd0800000000000000
+      internalID: -2348046948056611757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-atlas_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 256
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c505c6d53cfd3c0800000000000000
+      internalID: -4332529510490547151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-atlas_61
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 2
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6486dbf87d6d55530800000000000000
+      internalID: 3843214078348453958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-atlas_62
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc9f6e1371fe1c80800000000000000
+      internalID: -8349971182364156712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-atlas_63
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b3cfe3691fb8ab0800000000000000
+      internalID: -5004640933288068352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-atlas_64
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373aaa55f4aebb190800000000000000
+      internalID: -7945499491104545933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-atlas_65
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e9c9e1dcd3af110800000000000000
+      internalID: 1295415794013609555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-atlas_66
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6bc60c592c28150800000000000000
+      internalID: 5873470812478813923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-atlas_67
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ec8503a6d066cf0800000000000000
+      internalID: -259505178798404094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-atlas_68
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010fc68cf214b5be0800000000000000
+      internalID: -1487523578433966064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-atlas_69
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3dd2c58222e03f0800000000000000
+      internalID: -932770516078570503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
