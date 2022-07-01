@@ -132,5 +132,7 @@ private void OnEnable(){
 private void OnDisable(){
   
 }
-
+//Gracias por aprender con nosotros 
+//Siguenos en nuestro canal de Youtube: https://www.youtube.com/c/ElCanaldeAlejo-Co 
+//www.elcanaldealejo.com.co
 }
